@@ -1,0 +1,18 @@
+#Config file for the game
+
+Config:
+  Start Menu:
+    Aspect Ratio: !!python/tuple  [5, 3]
+    Scale: 160
+    FullScreen: True
+    StartScreenText: !!python/string "Press Any Key To Continue"
+    TextSize: 20
+    Logo: !!python/string "./Assets/Logo.png"
+  Main Menu:
+    Aspect Ratio: !!python/tuple [5, 3]
+    Scale: 160
+    FullScreen: True
+    TitleSize: 50
+
+
+

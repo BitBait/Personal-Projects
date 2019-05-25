@@ -1,0 +1,7 @@
+#Information for the pong game
+
+Information:
+  Name: Space Invaders
+  Logo: False
+  Video: !!python/string "./Games/SpaceInvaders/Frames/"
+  Text: !!python/string "The classic game re-imagined"

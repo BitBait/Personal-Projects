@@ -1,0 +1,7 @@
+#Information for the pong game
+
+Information:
+  Name: Pong
+  Logo: False
+  Video: !!python/string "./Games/Pong/Frames/"
+  Text: !!python/string "The classic game re-imagined"
