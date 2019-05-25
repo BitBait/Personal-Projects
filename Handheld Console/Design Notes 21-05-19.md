@@ -2,6 +2,8 @@
 ## Hardware
 * Pi 3
     * I/O pins
+        * Screen
+        * 
     * (Audio output)
 * 4 Way directional pad (some options)
     * https://www.sparkfun.com/products/9426
@@ -52,3 +54,9 @@
 ## To do list 
 * Pixel pineapple
 * Make example MetaData.yaml
+* Games/etc ideas testing
+    * Pong
+    * Cool Screensaver
+* Menu demo
+* Finding out how to draw to the screen
+* Finding/making a nice font
